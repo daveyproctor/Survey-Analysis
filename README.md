@@ -1,6 +1,16 @@
 This Jupyter Notebook introduces the techniques needed to analyze correlations (for now, gender) among the CS50 survey responders.
 
-Running the Jupyter Notebook:
+## How to:
+
+Open a terminal
+
+new directory
+
+git clone
+
+move survey responses into the directory as responses.csv
+
+## Running the Jupyter Notebook:
 
 You can use a virtual environment (http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/) if you'd like (if there are versions of other python libraries you'd like to protect)
 
